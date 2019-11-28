@@ -10,24 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor, EECS, MIT
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "http://web.mit.edu"
 - name: EECS
   url: "http://eecs.mit.edu"
 - name: CSAIL
   url: "http://csail.mit.edu" 
+- name: Massachusetts Institute of Technology
+  url: "http://web.mit.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Computer Graphics
+- Computational Fabrication
+- Additive Manufacturing
 - Computer Vision
-- Computational Design and Fabrication
 - Robotics
 - HCI
 
@@ -56,15 +57,19 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=wbIMbL8AAAAJ&hl=en&oi=ao
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+ - icon: linkedin
+   icon_pack: ai
+   link: https://www.linkedin.com/in/wojciech-matusik-67238126/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
