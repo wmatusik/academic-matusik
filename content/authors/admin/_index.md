@@ -66,8 +66,8 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
- - icon: linkedin
-   icon_pack: ai
+ - icon: github
+   icon_pack: fab
    link: https://www.linkedin.com/in/wojciech-matusik-67238126/
 
 
