@@ -66,9 +66,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
- - icon: github
-   icon_pack: fab
-   link: https://www.linkedin.com/in/wojciech-matusik-67238126/
+# - icon: github
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/wojciech-matusik-67238126/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
